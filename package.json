@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.0",
+    "tesseract.js": "^5.0.5"
+  }
+}
